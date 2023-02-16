@@ -3,12 +3,12 @@ public class Usuario {
     private int cedula;
     private String nombre;
     private String apellidos;
-    private String celular;
+    private int celular;
     private String correo;
     private String direccion;
     private String ciudad;
 
-    public Usuario(int cedula, String nombre, String apellidos, String celular, String correo, String direccion, String ciudad) {
+    public Usuario(int cedula, String nombre, String apellidos, int celular, String correo, String direccion, String ciudad) {
         this.cedula = cedula;
         this.nombre = nombre;
         this.apellidos = apellidos;

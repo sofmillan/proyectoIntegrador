@@ -3,7 +3,7 @@ public class Empleado extends Usuario {
     private String rh;
     private String tipoEmpleado;
 
-    public Empleado(int cedula, String nombre, String apellidos, String celular, String correo, String direccion, String ciudad, int antiguedad, String rh, String tipoEmpleado) {
+    public Empleado(int cedula, String nombre, String apellidos, int celular, String correo, String direccion, String ciudad, int antiguedad, String rh, String tipoEmpleado) {
         super(cedula, nombre, apellidos, celular, correo, direccion, ciudad);
         this.antiguedad = antiguedad;
         this.rh = rh;
