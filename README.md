@@ -1,2 +1,2 @@
 # proyectoIntegrador UML
-![primerEntregable](https://user-images.githubusercontent.com/98916125/219408156-04fd6eca-39bf-4e91-b249-6f3c1cd4a2cd.png)
+![Diagrama primer entregable](https://user-images.githubusercontent.com/98916125/219410430-d5327e0c-49d6-44f0-ba0f-a2a94b836a45.png)
